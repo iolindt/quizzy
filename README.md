@@ -1,2 +1,2 @@
-# Simple Chatbot
-Rule-based chatbot demo.
+# Quiz App
+Answer questions in a quiz game.
